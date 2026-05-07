@@ -30,8 +30,8 @@ Every concept is explained using this fixed structure:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/anonyassassin/engineering-dictionary.git
-cd engineering-dictionary
+git clone https://github.com/anonyassassin/Eng-dict.git
+cd Eng-dict
 ```
 
 ### 2. Install dependencies
