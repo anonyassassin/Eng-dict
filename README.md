@@ -30,7 +30,6 @@ Every concept is explained using this fixed structure:
 ### 1. Clone the repository
 
 ```bash
-<<<<<<< HEAD
 git clone https://github.com/your-username/Eng-dict.git
 cd Eng-dict
 ```
