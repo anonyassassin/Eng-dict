@@ -31,12 +31,8 @@ Every concept is explained using this fixed structure:
 
 ```bash
 <<<<<<< HEAD
-git clone https://github.com/your-username/engineering-dictionary.git
-cd engineering-dictionary
-=======
-git clone https://github.com/anonyassassin/Eng-dict.git
+git clone https://github.com/your-username/Eng-dict.git
 cd Eng-dict
->>>>>>> 72ebd6ffb5197ea953cf7231946ae2a00d8e1714
 ```
 
 ### 2. Install dependencies
