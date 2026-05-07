@@ -30,7 +30,7 @@ Every concept is explained using this fixed structure:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/engineering-dictionary.git
+git clone https://github.com/anonyassassin/engineering-dictionary.git
 cd engineering-dictionary
 ```
 
