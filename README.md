@@ -1,20 +1,20 @@
-# ⚙️ Engineering Dictionary
+# Engineering Dictionary
 
 A terminal-based engineering reference tool powered by the **Groq API** and **LLaMA 3.1**. Enter any engineering concept and get a structured, professional breakdown instantly — streamed live in your terminal with rich markdown formatting.
 
 ---
 
-## ✨ Features
+## Features
 
-- 🔍 **Instant definitions** for any engineering concept, system, or component
-- 📐 **Structured output** — every response follows a consistent technical format
-- ⚡ **Live streaming** responses rendered in real-time via `rich`
-- 🎨 **Rich markdown** formatting with styled terminal output
-- 🧠 Powered by `llama-3.1-8b-instant` via Groq's ultra-fast inference
+-  **Instant definitions** for any engineering concept, system, or component
+-  **Structured output** — every response follows a consistent technical format
+-  **Live streaming** responses rendered in real-time via `rich`
+-  **Rich markdown** formatting with styled terminal output
+-  Powered by `llama-3.1-8b-instant` via Groq's ultra-fast inference
 
 ---
 
-## 📋 Output Format
+## Output Format
 
 Every concept is explained using this fixed structure:
 
@@ -25,7 +25,7 @@ Every concept is explained using this fixed structure:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 
@@ -67,7 +67,7 @@ python main.py
 
 ---
 
-## 🖥️ Usage
+## Usage
 
 ```
 Engineering Dictionary Active. Press Ctrl+C to exit.
@@ -81,7 +81,7 @@ Press `Ctrl+C` at any time to exit gracefully.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 engineering-dictionary/
@@ -91,7 +91,7 @@ engineering-dictionary/
 
 ---
 
-## ⚙️ Configuration
+## Configuration
 
 You can tweak the following constants in `main.py`:
 
@@ -103,15 +103,9 @@ You can tweak the following constants in `main.py`:
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 | Package | Purpose                              |
 |---------|--------------------------------------|
 | `groq`  | Groq API client for LLM inference    |
 | `rich`  | Terminal markdown rendering & styling |
-
----
-
-## 📄 License
-
-MIT License — free to use, modify, and distribute.
